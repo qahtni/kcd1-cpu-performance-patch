@@ -1,0 +1,24 @@
+# build outputs
+src/out/
+out/
+dist/
+*.o
+*.bin
+*.res
+__pycache__/
+*.pyc
+# backups
+*.bak.*
+# never commit game files, fonts or binaries
+*.gfx
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.dll
+*.exe
+*.asi
+*.pak
+*.7z
+*.zip
+*.log
